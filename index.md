@@ -1,35 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Team HΞX's official website
 
-This is an official website made by **H Ξ X V G 0 И#6536**.
+This is an official website made by [**H Ξ X V G 0 И#6536**](https://www.hex-official.tk/).
 
-### Markdown
+* * *
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Team Members
 
-```markdown
-Syntax highlighted code block
+| Username           | Main Language     | Position    |
+|:-------------------|:------------------|:------------|
+| H Ξ X V G 0 И#6536 | `Python`          | CEO/Founder |
+| mobapedia#9260     | `Not Available`   | Co-Founder  |
+| Fluubah#5001       | `Not Available`   | Manager     |
+| Dima T.#5247       | `Not Available`   | Developer   |
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Falcn8/Team-Hex/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* * *
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble or still have question? Join the [support server](https://discord.gg/A7u65TMM3f), verify, and say the question in the `support` channel!
+
+* * *
+
+# Thank You For Reading!
+
+![picture](https://ibb.co/t3XJwMd)
+
+###### Team HΞX © 2020
