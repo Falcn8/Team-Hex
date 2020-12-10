@@ -26,7 +26,7 @@ Having trouble or still have question? Join the [support server](https://discord
 
 # Thank You For Reading!
 
-![picture](https://pasteboard.co/81de85c1-4b77-4459-b0c3-22b4b929a08e)
+![picture](https://i.imgur.com/lFanoz8.jpg)
 
 
 ###### Team HΞX © 2020
