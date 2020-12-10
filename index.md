@@ -10,7 +10,7 @@ This is an official website made by [**H Ξ X V G 0 И#6536**](https://www.hex-o
 | Username           | Main Language     | Position    |
 |:-------------------|:------------------|:------------|
 | H Ξ X V G 0 И#6536 | `Python`          | CEO/Founder |
-| mobapedia#9260     | `Not Available`   | Co-Founder  |
+| mobapedia#9260     | `JavaScript`      | Co-Founder  |
 | Fluubah#5001       | `Not Available`   | Manager     |
 | Dima T.#5247       | `Not Available`   | Developer   |
 
