@@ -1,4 +1,4 @@
-## .
+## Team HΞX
 
 * * *
 
@@ -12,12 +12,13 @@ This is an official website made by [**H Ξ X V G 0 И#6536**](https://www.hex-o
 
 ## Team Members
 
-| Username           | Main Language     | Position    |
-|:-------------------|:------------------|:------------|
-| H Ξ X V G 0 И#6536 | `Python`          | CEO/Founder |
-| mobapedia#9260     | `JavaScript`      | Co-Founder  |
-| Fluubah#5001       | `Python`          | Manager     |
-| Dima T.#5247       | `Not Available`   | Developer   |
+| Username           | Main Language     | Position    | Employee # |
+|:-------------------|:------------------|:------------|:-----------|
+| H Ξ X V G 0 И#6536 | `Python`          | CEO/Founder | #0         |
+| mobapedia#9260     | `JavaScript`      | Co-Founder  | #1         |
+| Fluubah#5001       | `Python`          | Manager     | #2         |
+| Dima T.#5247       | `Not Available`   | Developer   | #3         |
+| SXK#9763           | `Python`          | Developer   | #4         |
 
 * * *
 
