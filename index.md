@@ -16,8 +16,8 @@ This is an official website made by [**H Ξ X V G 0 И#6536**](https://www.hex-o
 |:-------------------|:------------------|:------------------|:------------|:-----------|
 | H Ξ X V G 0 И#6536 | `Python`          | None              | CEO/Founder | #0         |
 | mobapedia#9260     | `JavaScript`      | None              | Co-Founder  | #1         |
-| Fluubah#5001       | `Python`          | Music Production  | Manager     | #2         |
-| Dima T.#5247       | `JavaScript`      | None              | Developer   | #3         |
+| Fluubah#5001       | `Python`/`HTML`   | Music Production  | Manager     | #2         |
+| Tic Tac#5247       | `JavaScript`      | None              | Developer   | #3         |
 | SXK#9763           | `Python`          | None              | Developer   | #4         |
 
 * * *
